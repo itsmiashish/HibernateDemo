@@ -59,6 +59,7 @@ public class HQLDemo2 {
         System.out.println("sessionFactory closed..");
 
         System.out.println("Program ends...");
+        System.out.println(" Thank you for using this program.💀");
 
     }
 }
