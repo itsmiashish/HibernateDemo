@@ -46,6 +46,7 @@ public class Mainclass {
             session.persist(movie1);//persist-->save
             transaction.commit();
             System.out.println("Save Entity to DB SUCCESS");
+            System.out.println("hello iam raki");
         }
         catch (Exception ex) {
             ex.printStackTrace();
